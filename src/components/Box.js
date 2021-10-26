@@ -1,6 +1,6 @@
 import React from 'react'
 
-class Steps extends React.Component {
+class Box extends React.Component {
   render() {
     return (
       <div className="box col-sm-3 col-6">
@@ -11,4 +11,4 @@ class Steps extends React.Component {
   }
 }
 
-export default Steps
+export default Box
